@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://i.pinimg.com/originals/de/28/6f/de286fcfa956a9e89cfbdd5e7464c57d.gif" width="100%" />
+  <img src="https://i.pinimg.com/originals/1b/91/20/1b9120346b6d3ebe22187b07c68439f7.gif" width="40%" />
 </p>
 
 # Hey, I'm Khwanjai 🍵
