@@ -28,9 +28,3 @@ Frontend | UI | learning, building, becoming 🌱
 </p>
 
 <br/>
-
-<h2 align="center">Activity</h2>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kwankhwanjai&theme=github-light&hide_border=true" />
-</p>
