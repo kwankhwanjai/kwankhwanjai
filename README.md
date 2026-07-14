@@ -5,7 +5,7 @@
 <h1 align="center">Khwanjai</h1>
 
 <p align="center">
-  Frontend Developer · UI Focused <br/>
+  Junior Fullstack Developer · UI Focused <br/>
   <i>learning, building, becoming.</i> 🌱
 </p>
 
@@ -14,8 +14,10 @@
 <h2 align="center">Tech Stack</h2>
 
 <p align="center">
-  HTML · CSS · JavaScript · React · Tailwind <br/>
-  Git · Figma
+  HTML · CSS · JavaScript · TypeScript <br/>
+  React · Next.js · Tailwind CSS <br/>
+  Node.js · Express · Supabase · MongoDB <br/>
+  Git · GitHub · Figma
 </p>
 
 <br/>
@@ -23,9 +25,10 @@
 <h2 align="center">Focus</h2>
 
 <p align="center">
-  Building clean UI <br/>
-  Writing maintainable code <br/>
-  Growing into a better developer
+  Building clean and responsive interfaces <br/>
+  Developing full-stack web applications <br/>
+  Writing maintainable and scalable code <br/>
+  Continuously improving as a developer
 </p>
 
 <br/>
@@ -33,5 +36,7 @@
 <h2 align="center">Selected Work</h2>
 
 <p align="center">
-  Coming soon...
+  TableFlow · Restaurant Reservation System <br/>
+  Nexlo · Game Item Marketplace <br/>
+  Ecommerce Web Application
 </p>
