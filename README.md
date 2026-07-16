@@ -37,6 +37,6 @@
 
 <p align="center">
   TableFlow · Restaurant Reservation System <br/>
-  Nexlo · Game Item Marketplace <br/>
+  · Game Item Marketplace <br/>
   Ecommerce Web Application
 </p>
