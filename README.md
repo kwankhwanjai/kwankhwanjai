@@ -6,7 +6,7 @@
 
 <p align="center">
   Junior Fullstack Developer · UI Focused <br/>
-  <i>learning, building, becoming.</i> 🌱
+  <i>learning, building, becoming.</i> 
 </p>
 
 <br/>
