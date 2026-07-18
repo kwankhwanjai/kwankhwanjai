@@ -5,7 +5,7 @@
 <h1 align="center">Khwanjai</h1>
 
 <p align="center">
-  Junior Fullstack Developer · UI Focused <br/>
+  Junior Fullstack Developer · UI Focused 🍵<br/>
   <i>learning, building, becoming.</i> 
 </p>
 
