@@ -4,7 +4,7 @@
 
 <h1 align="center">Khwanjai</h1>
 
-<p align="center">
+<p align="center">🍁 
   Junior Fullstack Developer ·🦊<br/>
   <i>learning, building, becoming.</i> 
 </p>
