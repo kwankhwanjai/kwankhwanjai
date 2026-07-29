@@ -33,7 +33,7 @@
 
 <br/>
 
-<h2 align="center">Selected Work</h2>
+<h2 align="center">Selected Work.</h2>
 
 <p align="center">
   TableFlow · Restaurant Reservation System <br/>
