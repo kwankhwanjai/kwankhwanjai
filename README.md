@@ -28,7 +28,7 @@
   Building clean and responsive interfaces <br/>
   Developing full-stack web applications <br/>
   Writing maintainable and scalable code <br/>
-  Continuously improving as a developer
+  Continuously improving as a developer.
 </p>
 
 <br/>
