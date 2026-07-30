@@ -37,6 +37,6 @@
 
 <p align="center">
   TableFlow · Restaurant Reservation System <br/>
-  · Game Item Marketplace <br/>
+  · <br/>
   Ecommerce Web Application
 </p>
