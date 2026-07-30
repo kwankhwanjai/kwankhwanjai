@@ -37,6 +37,5 @@
 
 <p align="center">
   TableFlow · Restaurant Reservation System <br/>
-  · <br/>
-  Ecommerce Web Application
+  · Ecommerce Web Application <br/>
 </p>
