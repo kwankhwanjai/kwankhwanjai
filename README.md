@@ -5,7 +5,7 @@
 <h1 align="center">Khwanjai Koaleta</h1>
 
 <p align="center">🍁 
-  Junior Fullstack Developer ·🦊<br/>
+  Junior Fullstack Developer 🦊<br/>
   <i>learning, building, becoming.</i> 
 </p>
 
@@ -32,7 +32,7 @@
 
 <br/>
 
-<h2 align="center">Selected Work.</h2>
+<h2 align="center">Selected Work</h2>
 
 <p align="center">
   TableFlow · Restaurant Reservation System <br/>
