@@ -84,18 +84,6 @@
 
 <br/>
 
-<h2 align="center">Let's Connect ౨ৎ</h2>
-
-<p align="center">
-  Always happy to learn, build and connect with other developers.
-  <br/><br/>
-  <a href="mailto:YOUR_EMAIL">Email</a>
-  ·
-  <a href="YOUR_LINKEDIN_URL">LinkedIn</a>
-  ·
-  <a href="YOUR_PORTFOLIO_URL">Portfolio</a>
-</p>
-
 <br/>
 
 <p align="center">
