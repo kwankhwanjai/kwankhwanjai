@@ -2,7 +2,7 @@
   <img src="https://i.pinimg.com/originals/1b/91/20/1b9120346b6d3ebe22187b07c68439f7.gif" width="52%" />
 </p>
 
-<h1 align="center">Khwanjai Koaleta 🍁</h1>
+<h1 align="center">🍁 Khwanjai Koaleta 🍁</h1>
 
 <p align="center">
   <b>Junior Fullstack Developer</b> 🦊
