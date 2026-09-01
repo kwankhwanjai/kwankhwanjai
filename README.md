@@ -61,7 +61,7 @@
 
 <br/>
 
-<h2 align="center">Selected Work.</h2>
+<h2 align="center">Selected Work</h2>
 
 <p align="center">
   🍽️ <b>TableFlow</b><br/>
