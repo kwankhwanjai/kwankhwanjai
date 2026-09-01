@@ -55,7 +55,7 @@
 <p align="center">
   🌱 Learning more about full-stack development<br/>
   🧩 Building responsive and reusable interfaces<br/>
-  🧠 Improving clean code & problem-solving skills<br/>
+  🦊 Improving clean code & problem-solving skills<br/>
   ✨ Turning small ideas into real projects
 </p>
 
