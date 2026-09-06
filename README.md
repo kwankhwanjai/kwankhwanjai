@@ -5,7 +5,7 @@
 <h1 align="center">Khwanjai Koaleta</h1>
 
 <p align="center">
-  <b>Junior Fullstack Developer</b> 🦊
+  <b>Junior Fullstack Developer</b> 
   <br/>
   <i>learning · building · becoming.</i>
 </p>
