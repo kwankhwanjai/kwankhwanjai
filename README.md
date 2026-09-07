@@ -25,7 +25,7 @@
   clean, simple and thoughtful web experiences.
   <br/><br/>
   Currently focusing on modern web development,<br/>
-  improving my full-stack skills and creating projects I genuinely enjoy. 🍅
+  improving my full-stack skills and creating projects I genuinely enjoy. 
 </p>
 
 <br/>
