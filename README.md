@@ -12,7 +12,7 @@
 
 <p align="center">
   <a href="https://khwanjai-portfolio.netlify.app/">Portfolio</a>
-  ·
+  
   <a href="YOUR_LINKEDIN_URL">LinkedIn</a>
 </p>
 
