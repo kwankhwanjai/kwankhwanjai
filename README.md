@@ -81,6 +81,3 @@
 
 <br/>
 
-<p align="center">
-  <sub>made with coffee, curiosity & a little bit of chaos ☕🦊</sub>
-</p>
