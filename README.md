@@ -69,7 +69,7 @@
 <br/>
 
 <p align="center">
-  🛒 <b>Ecommerce Web Application</b><br/>
+  <b>Ecommerce Web Application</b><br/>
   Modern Ecommerce Website<br/>
   <sub>Responsive shopping experience with full-stack functionality.</sub>
 </p>
