@@ -1,83 +1,58 @@
-<p align="center">
-  <img src="https://i.pinimg.com/originals/1b/91/20/1b9120346b6d3ebe22187b07c68439f7.gif" width="52%" />
-</p>
+<div align="center">
 
-<h1 align="center">Khwanjai Koaleta</h1>
+# Khwanjai Koaleta
 
-<p align="center">
-  <b>Junior Fullstack Developer</b> 
-  <br/>
-  <i>learning · building · becoming.</i>
-</p>
+**Full-stack Developer · UI/UX Enthusiast**
 
-<p align="center">
-  <a href="https://khwanjai-portfolio.netlify.app/">Portfolio</a>
+*learning · building · growing*
 
-<br/>
+[Portfolio](https://khwanjai-portfolio.netlify.app/)
 
-<h2 align="center">୨ৎ About Me</h2>
+</div>
 
-<p align="center">
-  I'm a junior fullstack developer who enjoys building<br/>
-  clean, simple and thoughtful web experiences.
-  <br/><br/>
-  Currently focusing on modern web development,<br/>
-  improving my full-stack skills and creating projects I genuinely enjoy. 
-</p>
+---
 
-<br/>
+### About me
 
-<h2 align="center">Tech Stack</h2>
+I'm a developer who enjoys creating clean, intuitive,
+and meaningful digital experiences.
 
-<p align="center">
-  <b>Frontend</b><br/>
-  HTML · CSS · JavaScript · TypeScript<br/>
-  React · Next.js · Tailwind CSS
-</p>
+I care about thoughtful design, usability, and writing
+maintainable code. My interests include full-stack web
+development, UI/UX design, and robotics education.
 
-<p align="center">
-  <b>Backend & Database</b><br/>
-  Node.js · Express · Supabase · MongoDB
-</p>
+### Tech stack
 
-<p align="center">
-  <b>Tools</b><br/>
-  Git · GitHub · Figma
-</p>
+**Frontend**  
+HTML · CSS · JavaScript · TypeScript · React · Next.js · Tailwind CSS
 
-<br/>
+**Backend & Database**  
+Node.js · Express · Supabase · MongoDB
 
-<h2 align="center">𐙚 Currently</h2>
+**Design & Tools**  
+Figma · Git · GitHub
 
-<p align="center">
-  🌱 Learning more about full-stack development<br/>
-  🧩 Building responsive and reusable interfaces<br/>
-  🦊 Improving clean code & problem-solving skills<br/>
-  ✨ Turning small ideas into real projects
-</p>
+### Currently exploring
 
-<br/>
+- Building scalable and responsive web applications
+- Improving software architecture and clean code practices
+- Designing intuitive user interfaces
+- Exploring robotics programming with VEX IQ and Python
 
-<h2 align="center">Selected Work</h2>
+### Selected projects
 
-<p align="center">
-  🍽️ <b>TableFlow</b><br/>
-  Restaurant Reservation System<br/>
-  <sub>Full-stack reservation management experience.</sub>
-</p>
+**TableFlow**  
+Restaurant Reservation Management System  
+A full-stack project focused on simplifying restaurant
+bookings and management.
 
-<br/>
+**Ecommerce Web Application**  
+A responsive ecommerce experience with modern web technologies.
 
-<p align="center">
-  <b>Ecommerce Web Application</b><br/>
-  Modern Ecommerce Website<br/>
-  <sub>Responsive shopping experience with full-stack functionality.</sub>
-</p>
+---
 
-<br/>
+<div align="center">
 
+<sub>Made with curiosity and a love for building things.</sub>
 
-<br/>
-
-<br/>
-
+</div>
