@@ -1,10 +1,10 @@
-<div align="center">
+ <div align="center">
 
 # Khwanjai Koaleta
 
-**Full-stack Developer · UI/UX Enthusiast**
+**Full-stack Developer · UI/UX Enthusiast · Robotics Instructor**
 
-*learning · building · growing*
+*learning · building · teaching · growing*
 
 [Portfolio](https://khwanjai-portfolio.netlify.app/)
 
@@ -14,12 +14,9 @@
 
 ### About me
 
-I'm a developer who enjoys creating clean, intuitive,
-and meaningful digital experiences.
+I'm a developer who enjoys building clean, intuitive, and meaningful web experiences.
 
-I care about thoughtful design, usability, and writing
-maintainable code. My interests include full-stack web
-development, UI/UX design, and robotics education.
+Alongside web development, I teach programming and robotics to young learners, encouraging creativity and problem-solving through hands-on learning.
 
 ### Tech stack
 
@@ -29,22 +26,24 @@ HTML · CSS · JavaScript · TypeScript · React · Next.js · Tailwind CSS
 **Backend & Database**  
 Node.js · Express · Supabase · MongoDB
 
+**Robotics & Education**  
+Python · VEX IQ · VEXcode
+
 **Design & Tools**  
 Figma · Git · GitHub
 
-### Currently exploring
+### Currently
 
-- Building scalable and responsive web applications
-- Improving software architecture and clean code practices
-- Designing intuitive user interfaces
-- Exploring robotics programming with VEX IQ and Python
+- Building responsive and maintainable web applications
+- Improving full-stack development and UI/UX skills
+- Teaching Python and VEX IQ robotics to young learners
+- Exploring new technologies through practical projects
 
 ### Selected projects
 
 **TableFlow**  
 Restaurant Reservation Management System  
-A full-stack project focused on simplifying restaurant
-bookings and management.
+A full-stack project focused on simplifying restaurant bookings and management.
 
 **Ecommerce Web Application**  
 A responsive ecommerce experience with modern web technologies.
