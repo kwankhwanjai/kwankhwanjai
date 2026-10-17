@@ -2,9 +2,9 @@
 
 # Khwanjai Koaleta
 
-**Full-stack Developer · UI/UX Enthusiast · Robotics Instructor**
+**Software Developer · UI/UX Enthusiast · Robotics Instructor**
 
-*learning · building · teaching · growing*
+*Learning, building, and improving along the way.*
 
 [Portfolio](https://khwanjai-portfolio.netlify.app/)
 
@@ -14,9 +14,11 @@
 
 ### About me
 
-I'm a developer who enjoys building clean, intuitive, and meaningful web experiences.
+I'm a software developer with an interest in web development, UI/UX design, and robotics.
 
-Alongside web development, I teach programming and robotics to young learners, encouraging creativity and problem-solving through hands-on learning.
+I enjoy learning through practical projects, exploring different approaches, and improving my skills one step at a time.
+
+Alongside development, I teach robotics and programming to young learners, which has helped me grow in problem-solving and communication.
 
 ### Tech stack
 
@@ -26,32 +28,30 @@ HTML · CSS · JavaScript · TypeScript · React · Next.js · Tailwind CSS
 **Backend & Database**  
 Node.js · Express · Supabase · MongoDB
 
-**Robotics & Education**  
+**Robotics**  
 Python · VEX IQ · VEXcode
 
-**Design & Tools**  
+**Tools**  
 Figma · Git · GitHub
 
-### Currently
+### Currently learning & working on
 
-- Building responsive and maintainable web applications
-- Improving full-stack development and UI/UX skills
-- Teaching Python and VEX IQ robotics to young learners
-- Exploring new technologies through practical projects
+- Building web applications through hands-on projects
+- Strengthening my understanding of full-stack development
+- Exploring robotics programming and improving my teaching skills
 
-### Selected projects
+### Projects
 
 **TableFlow**  
-Restaurant Reservation Management System  
-A full-stack project focused on simplifying restaurant bookings and management.
+A restaurant reservation management system built to explore full-stack development and application design.
 
 **Ecommerce Web Application**  
-A responsive ecommerce experience with modern web technologies.
+A web development project focused on responsive layouts and user experience.
 
 ---
 
 <div align="center">
 
-<sub>Made with curiosity and a love for building things.</sub>
+<sub>Always learning, one project at a time.</sub>
 
 </div>
