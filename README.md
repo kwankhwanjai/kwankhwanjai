@@ -1,57 +1,58 @@
- <div align="center">
+<div align="center">
 
-# Khwanjai Koaleta
+# Hi, I'm Khwanjai 
 
-**Software Developer · UI/UX Enthusiast · Robotics Instructor**
+Software Developer · UI/UX Enthusiast · Robotics Instructor
 
-*Learning, building, and improving along the way.*
+Learning by building, sharing, and trying again.
 
-[Portfolio](https://khwanjai-portfolio.netlify.app/)
+[Explore my portfolio](https://khwanjai-portfolio.netlify.app/)
 
 </div>
 
 ---
 
-### About me
+### A little about me
 
-I'm a software developer with an interest in web development, UI/UX design, and robotics.
+I'm interested in building web applications that are useful and easy to use.
+I enjoy working across development and design, learning through small experiments
+and hands-on projects.
 
-I enjoy learning through practical projects, exploring different approaches, and improving my skills one step at a time.
+I also teach robotics and programming to young learners.
+Teaching reminds me to stay curious, be patient, and look at problems from different perspectives.
 
-Alongside development, I teach robotics and programming to young learners, which has helped me grow in problem-solving and communication.
+### Things I work with
 
-### Tech stack
-
-**Frontend**  
+**Web**  
 HTML · CSS · JavaScript · TypeScript · React · Next.js · Tailwind CSS
 
-**Backend & Database**  
+**Backend & Databases**  
 Node.js · Express · Supabase · MongoDB
 
 **Robotics**  
 Python · VEX IQ · VEXcode
 
-**Tools**  
+**Everyday tools**  
 Figma · Git · GitHub
 
-### Currently learning & working on
-
-- Building web applications through hands-on projects
-- Strengthening my understanding of full-stack development
-- Exploring robotics programming and improving my teaching skills
-
-### Projects
+### Selected projects
 
 **TableFlow**  
-A restaurant reservation management system built to explore full-stack development and application design.
+A restaurant reservation management system where I'm exploring
+full-stack development and thoughtful application design.
 
 **Ecommerce Web Application**  
-A web development project focused on responsive layouts and user experience.
+A project focused on responsive layouts and making the shopping
+experience easy to navigate.
+
+### Learning along the way
+
+- Connecting frontend and backend into complete web applications
+- Making small improvements to usability and interface design
+- Exploring robotics and finding clearer ways to teach programming
 
 ---
 
 <div align="center">
-
-<sub>Always learning, one project at a time.</sub>
-
+<sub>A little progress, one project at a time.</sub>
 </div>
