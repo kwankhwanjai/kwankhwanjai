@@ -4,7 +4,7 @@
 
 **Software Developer · UI/UX Enthusiast · Robotics Instructor**
 
-*Learning, building, and improving along the way🍁.*
+*Learning, building, and improving along the way.*
 
 [Portfolio](https://khwanjai-portfolio.netlify.app/)
 
