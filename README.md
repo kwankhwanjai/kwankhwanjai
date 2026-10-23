@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi, I'm Khwanjai 
+# Hi, I'm Khwanjai.
 
 Software Developer · UI/UX Enthusiast · Robotics Instructor
 
