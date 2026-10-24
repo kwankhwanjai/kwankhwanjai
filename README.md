@@ -54,5 +54,5 @@ experience easy to navigate.
 ---
 
 <div align="center">
-<sub>A little progress, one project at a time.</sub>
+<sub>A little progress, one project at a time</sub>
 </div>
