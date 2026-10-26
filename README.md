@@ -1,10 +1,10 @@
 <div align="center">
 
-# Hi, I'm Khwanjai.
+# Hi, I'm Khwanjai 👋
 
-Software Developer · UI/UX Enthusiast · Robotics Instructor
+A recent graduate interested in web development and UI/UX design.
 
-Learning by building, sharing, and trying again.
+I build web projects and teach robotics and programming to young learners.
 
 [Explore my portfolio](https://khwanjai-portfolio.netlify.app/)
 
@@ -12,47 +12,45 @@ Learning by building, sharing, and trying again.
 
 ---
 
-### A little about me
+### About me
 
-I'm interested in building web applications that are useful and easy to use.
-I enjoy working across development and design, learning through small experiments
-and hands-on projects.
+I'm an aspiring software developer who enjoys turning ideas into
+practical, easy-to-use web applications.
+
+Through hands-on projects, I've been developing my skills in frontend
+and backend development, while paying attention to how people use
+and experience an application.
 
 I also teach robotics and programming to young learners.
-Teaching reminds me to stay curious, be patient, and look at problems from different perspectives.
+This experience has helped me practice clear communication,
+patience, and breaking complex problems into smaller steps.
 
-### Things I work with
+### Tech stack
 
-**Web**  
-HTML · CSS · JavaScript · TypeScript · React · Next.js · Tailwind CSS
-
-**Backend & Databases**  
-Node.js · Express · Supabase · MongoDB
-
-**Robotics**  
-Python · VEX IQ · VEXcode
-
-**Everyday tools**  
-Figma · Git · GitHub
+- **Frontend:** HTML, CSS, JavaScript, TypeScript, React, Next.js, Tailwind CSS
+- **Backend & Databases:** Node.js, Express, Supabase, MongoDB
+- **Robotics:** Python, VEX IQ, VEXcode
+- **Tools:** Git, GitHub, Figma
 
 ### Selected projects
 
-**TableFlow**  
-A restaurant reservation management system where I'm exploring
-full-stack development and thoughtful application design.
+#### TableFlow
+A web application for managing restaurant reservations.
+This project brings together my interests in full-stack development
+and user-friendly application design.
 
-**Ecommerce Web Application**  
-A project focused on responsive layouts and making the shopping
-experience easy to navigate.
+#### Ecommerce Web Application
+A web project focused on responsive layouts and a shopping
+experience that's easy to navigate across different screen sizes.
 
-### Learning along the way
+### What I'm learning
 
-- Connecting frontend and backend into complete web applications
-- Making small improvements to usability and interface design
-- Exploring robotics and finding clearer ways to teach programming
+- Building complete applications that connect frontend and backend
+- Improving usability through small, thoughtful design decisions
+- Finding clearer and more engaging ways to teach programming
 
 ---
 
 <div align="center">
-<sub>A little progress, one project at a time</sub>
+<sub>Learning by building, sharing, and trying again.</sub>
 </div>
