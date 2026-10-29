@@ -51,6 +51,3 @@ experience that's easy to navigate across different screen sizes.
 
 ---
 
-<div align="center">
-<sub>Learning by building, sharing, and trying again.</sub>
-</div>
