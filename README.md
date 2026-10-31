@@ -4,7 +4,7 @@
 
 A recent graduate interested in web development and UI/UX design.
 
-I build web projects and teach robotics and programming to young learners.
+I build web projects and teach robotics and programming to young learners
 
 [Explore my portfolio](https://khwanjai-portfolio.netlify.app/)
 
