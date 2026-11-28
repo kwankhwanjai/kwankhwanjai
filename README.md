@@ -1,7 +1,6 @@
 <div align="center">
 
-# Hi, I'm Khwanjai 🦊
-
+# Hi, I'm Khwanjai
 A recent graduate interested in web development and UI/UX design.
 
 I build web projects and teach robotics and programming to young learners
